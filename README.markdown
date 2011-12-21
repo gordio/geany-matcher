@@ -14,3 +14,4 @@ Try press ", ', (, [, {, < in source code
 
 - Remove double matcher on remove one open
 - Replace matches with hotkey (only inline)
+- Work with selection (select and press " )
